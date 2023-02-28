@@ -1,6 +1,3 @@
-/* * {
-    box-sizing: border-box;
-} */
 body,html {
     height: 100%;
     margin: 0;
@@ -15,23 +12,23 @@ body,html {
 }
 .fish {
     position: absolute;
-    animation: fish 17s infinite alternate linear;
+    animation: fish 17s infinite linear;
 }
 .sea-animal {
     position: absolute;
-    animation: sea-animal 19s infinite alternate linear;
+    animation: sea-animal 19s infinite linear;
 }
 .fish-left {
     position: absolute;
-    animation: fish2 16s infinite alternate linear;
+    animation: fish2 16s infinite  linear;
 }
 .fish4 {
     position: absolute;
-    animation: fish4 18s infinite alternate linear;
+    animation: fish4 18s infinite  linear;
 }
 .turtle {
     position: absolute;
-    animation: turtle 30s infinite alternate linear;
+    animation: turtle 30s infinite  linear;
 }
 .blue {
     position: absolute;
