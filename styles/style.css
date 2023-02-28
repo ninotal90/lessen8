@@ -1,0 +1,41 @@
+/* * {
+    box-sizing: border-box;
+} */
+body,html {
+    height: 100%;
+    margin: 0;
+}
+.undersea {
+    background-image: url("../images/undersea.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    position: relative;
+}
+.fish {
+    position: absolute;
+    animation: fish 17s infinite alternate linear;
+}
+.sea-animal {
+    position: absolute;
+    animation: sea-animal 19s infinite alternate linear;
+}
+.fish-left {
+    position: absolute;
+    animation: fish2 16s infinite alternate linear;
+}
+.fish4 {
+    position: absolute;
+    animation: fish4 18s infinite alternate linear;
+}
+.turtle {
+    position: absolute;
+    animation: turtle 30s infinite alternate linear;
+}
+.blue {
+    position: absolute;
+    animation: blue 15s infinite  linear;
+}
+ 
+ 

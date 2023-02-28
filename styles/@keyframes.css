@@ -1,0 +1,109 @@
+@keyframes fish {
+    0%  {right: 0px;}
+    10% {right: 100px;}
+    20% {top:30px;right:200px;}
+    30% {top:35px;right:250px;}
+    45% {top:40px;right:300px;}
+    50% {top:50px;right:400px;}
+    55% {top:50px;right:600px;}
+    60% {top:70px;right:700px;}
+    65% {top:90px;right:800px;}
+    70% {top:90px;right:900px;}
+    75% {top:90px;right:1000px;}
+    80% {top:90px;right:1100px;}
+    85% {top:90px;right:1200px;}
+    90% {top:90px;right:1300ox;}
+    95% {top:90px;right:1400px;}
+    100% {top:90px;right:1500px;}
+ }
+ @keyframes sea-animal {
+      0% {top:400px;right:0px;}
+     10% {top:400px;right:100px;}
+     20% {top:400px;right:200px;}
+     30% {top:400px;right:300px;}
+     40% {top:400px;right:400px;}
+     50% {top:400px;right:500px;}
+     55% {top:400px;right:600px;}
+     60% {top:400px;right:700px;}
+     65% {top:400px;right:800px;}
+     70% {top:200px;right:900px;}
+     75% {top:200px;right:1000px;}
+     80% {top:200px;right:1100px;}
+     85% {top:200px;right:1200px;}
+     90% {top:200px;right:1300px;}
+     95% {top:200px;right:1400px;}
+     100% {top:200px;right:1400px;}
+ }
+ @keyframes fish2 {
+     0% {top:150px;left:0px}
+     10% {top:150px;left:100px}
+     20% {top:150px;left:200px}
+     30% {top:200px;left:300px}
+     40% {top:300px;left:400px}
+     50% {top:300px;left:500px}
+     55% {top:300px;left:600px}
+     60% {top:300px;left:700px}
+     65% {top:300px;left:800px}
+     70% {top:300px;left:900px}
+     75% {top:300px;left:1000px;}
+     80% {top:300px;left:1100px}
+     85% {top:300px;left:1200px}
+     90% {top:300px;left:1300px}
+     95% {top:300px;left:1400px}
+     100% {top:300px;left:1400px}
+ 
+ }
+ @keyframes fish4 {
+     0% {top:0px;left:0px}
+     10% {top:0px;left:100px}
+     20% {top:0px;left:200px}
+     30% {top:0px;left:300px}
+     40% {top:0px;left:400px}
+     50% {top:0px;left:500px}
+     55% {top:0px;left:600px}
+     60% {top:0px;left:700px}
+     65% {top:0px;left:800px}
+     70% {top:0px;left:900px}
+     75% {top:0px;left:1000px;}
+     80% {top:0px;left:1100px}
+     85% {top:0px;left:1200px}
+     90% {top:0px;left:1300px}
+     95% {top:0px;left:1400px}
+     100% {top:0px;left:1400px}
+ }
+ @keyframes turtle {
+     0% {top:600px;right:0px;}
+     10% {top:600px;right:100px;}
+     20% {top:600px;right:200px;}
+     30% {top:600px;right:300px;}
+     40% {top:600px;right:400px;}
+     50% {top:600px;right:500px;}
+     55% {top:600px;right:600px;}
+     60% {top:600px;right:700px;}
+     65% {top:600px;right:800px;}
+     70% {top:600px;right:900px;}
+     75% {top:600px;right:1000px;}
+     80% {top:600px;right:1100px;}
+     85% {top:600px;right:1200px;}
+     90% {top:600px;right:1300px;}
+     95% {top:600px;right:1400px;}
+     100% {top:600px;right:1400px;} 
+ }
+@keyframes blue {
+    0% {top:500px;left:0px}
+    10% {top:500px;left:100px}
+    20% {top:500px;left:200px}
+    30% {top:500px;left:300px}
+    40% {top:500px;left:400px}
+    50% {top:500px;left:500px}
+    55% {top:500px;left:600px}
+    60% {top:550px;left:700px}
+    65% {top:550px;left:800px}
+    70% {top:550px;left:900px}
+    75% {top:550px;left:1000px;}
+    80% {top:550px;left:1100px}
+    85% {top:550px;left:1200px}
+    90% {top:550px;left:1300px}
+    95% {top:550px;left:1400px}
+    100% {top:550px;left:1400px}
+} 
